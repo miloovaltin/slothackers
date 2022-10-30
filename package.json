@@ -1,16 +1,16 @@
 {
-"name": "slothackers",
-"theme": "slot hackers",
-"version": "8.4.6",
-"description": "slot hackers สมัครเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
-"keywords": [
-"slot hackers",
-"slot hackers เครดิตฟรี",
-"slot hackers ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/slothackers",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "slothackers",
+  "theme": "slot hackers",
+  "version": "8.5.0",
+  "description": "slot hackers สมัครเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกเงินเครดิตฟรี",
+  "keywords": [
+    "slot hackers",
+    "slot hackers เครดิตฟรี",
+    "slot hackers ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/slothackers",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
